@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Elio Mollo/Desktop/AD/lib_Examen/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Elio Mollo/Desktop/AD/lib_Examen/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Elio Mollo/Desktop/AD/lib_Examen/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Elio Mollo/Desktop/AD/lib_Examen/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Elio Mollo/Desktop/AD/lib_Examen/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Elio Mollo/Desktop/AD/lib_Examen/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Elio Mollo/Desktop/AD/lib_Examen/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Elio Mollo/Desktop/AD/lib_Examen/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Elio Mollo/Desktop/AD/lib_Examen/javassist-3.4.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Elio Mollo/Desktop/AD/lib_Examen/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Elio Mollo/Desktop/AD/lib_Examen/jtds-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Elio Mollo/Desktop/AD/lib_Examen/slf4j-api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Elio Mollo/Desktop/AD/lib_Examen/slf4j-simple-1.5.6.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/TPO_Local_Repositorio"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
